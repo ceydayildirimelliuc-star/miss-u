@@ -1,1 +1,19 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #ffd6e7;
+    overflow: hidden;
+    font-family: Arial, sans-serif;
+}
 
+.container {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+h1 {
+    color: #8e44ad;
+    font-size: 70px;
+}
